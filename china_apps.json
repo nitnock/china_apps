@@ -348,7 +348,7 @@
     "a_name": "Elite Singles"
   },
  {
-    "p_name": "com.appinstall.tantan",
+    "p_name": "com.appsinstall.tantan",
     "a_name": "Tantan"
   },
  {
@@ -402,6 +402,18 @@
  {
     "p_name": "com.reddit.frontpage",
     "a_name": "Reddit"
+  },
+  {
+    "p_name": "com.instagram.android",
+    "a_name": "Instagram"
+  },
+  {
+    "p_name": "com.tinder",
+    "a_name": "Tinder"
+  },
+  {
+    "p_name": "com.bumble.app",
+    "a_name": "Bumble"
   }
   
  
