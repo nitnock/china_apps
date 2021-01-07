@@ -216,8 +216,128 @@
     "a_name": "Nimbuzz"
   },
  {
-    "p_name": "com.whatsapp",
-    "a_name": "WhatsApp"
+    "p_name": "com.viber.voip",
+    "a_name": "Viber"
+  },
+ {
+    "p_name": "jp.naver.line.android",
+    "a_name": "LINE"
+  },
+ {
+    "p_name": "in.mohalla.sharechat",
+    "a_name": "ShareChat"
+  },
+ {
+    "p_name": "com.imo.android.imoim",
+    "a_name": "imo"
+  },
+ {
+    "p_name": "com.whitrie.gekart.qzone",
+    "a_name": "Q Zone"
+  },
+ {
+    "p_name": "com.hike.chat.stickers",
+    "a_name": "Hike"
+  },
+ {
+    "p_name": "com.campmobile.snow",
+    "a_name": "SNOW"
+  },
+ {
+    "p_name": "com.totok_messanger.totok_call",
+    "a_name": "totok guide"
+  },
+ {
+    "p_name": "com.uvideostatus.likevideostatus.songstatus",
+    "a_name": "Online Video Download"
+  },
+ {
+    "p_name": "com.dewmobile.kuaiya.play",
+    "a_name": "Zapya"
+  },
+ {
+    "p_name": "us.zoom.videomeetings",
+    "a_name": "Zoom"
+  },
+ {
+    "p_name": "com.truecaller",
+    "a_name": "Truecaller"
+  },
+ {
+    "p_name": "com.globalegrow.app.gearbest",
+    "a_name": "Gearbest"
+  },
+ {
+    "p_name": "com.miniinthebox.android",
+    "a_name": "Mini"
+  },
+ {
+    "p_name": "com.dhgate.buyermob",
+    "a_name": "DHgate"
+  },
+ {
+    "p_name": "com.epro.dx",
+    "a_name": "DX"
+  },
+ {
+    "p_name": "com.lightinthebox.android",
+    "a_name": "LightInTheBox"
+  },
+ {
+    "p_name": "com.ericdress.application",
+    "a_name": "EricDress"
+  },
+ {
+    "p_name": "com.romwe.shop",
+    "a_name": "ROMWE FASHION"
+  },
+ {
+    "p_name": "com.productmarket.sheinproductlite",
+    "a_name": "SheinProductLite"
+  },
+ {
+    "p_name": "com.rosegal",
+    "a_name": "ROSEGAL"
+  },
+ {
+    "p_name": "com.tlz.tbdress",
+    "a_name": "Tbdress"
+  },
+ {
+    "p_name": "com.trulymadly.android.app",
+    "a_name": "TrulyMadly"
+  },
+ {
+    "p_name": "com.aisle.app",
+    "a_name": "Aisle"
+  },
+ {
+    "p_name": "com.ftw_and_co.happn",
+    "a_name": "happn"
+  },
+ {
+    "p_name": "com.coffeemeetsbagel",
+    "a_name": "Coffee Meets Bagel"
+  },
+ {
+    "p_name": "com.u2opia.woo",
+    "a_name": "Woo"
+  },
+ {
+    "p_name": "com.okcupid.okcupid",
+    "a_name": "OkCupid"
+  },
+ {
+    "p_name": "co.hinge.app",
+    "a_name": "Hinge"
+  },
+ {
+    "p_name": "com.badoo.mobile",
+    "a_name": "Badoo"
+  },
+ {
+    "p_name": "com.azarlive.android",
+    "a_name": "Azar"
   }
   
  
