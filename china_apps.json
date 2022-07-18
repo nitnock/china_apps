@@ -418,7 +418,11 @@
   {
     "p_name": "com.apusapps.browser",
     "a_name": "APUS Browser"
+  } {
+    "p_name": "cm.browser.privatewindow.download",
+    "a_name": "CM Browser"
   }
+
   
  
 ]
